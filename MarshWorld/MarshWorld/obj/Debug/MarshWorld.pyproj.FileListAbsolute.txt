@@ -1,0 +1,12 @@
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\MarshWorld.exe.config
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\MarshWorld.exe
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\MarshWorld.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\IronPython.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\IronPython.Modules.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\Microsoft.Scripting.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\obj\Debug\MarshWorld.pyprojResolveAssemblyReference.cache
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\obj\Debug\MarshWorld.MainForm.resources
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\obj\Debug\MarshWorld.pyproj.GenerateResource.Cache
+C:\Users\zhao.z1\Desktop\Programming-1\MarshWorld\MarshWorld\obj\Debug\MarshWorld.exe

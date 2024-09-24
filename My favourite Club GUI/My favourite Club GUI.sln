@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "My favourite Club GUI", "My favourite Club GUI\My favourite Club GUI.pyproj", "{9824E458-459C-4995-84B0-09AC2BA08286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9824E458-459C-4995-84B0-09AC2BA08286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9824E458-459C-4995-84B0-09AC2BA08286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9824E458-459C-4995-84B0-09AC2BA08286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9824E458-459C-4995-84B0-09AC2BA08286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
